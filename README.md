@@ -44,9 +44,12 @@
 
 ----
 
-## 스프링 DB
-
-
-
+## [스프링 DB](https://cliff-snowstorm-2ff.notion.site/DB-2e5b5cd864e14658a0a3d5e987fd733a?pvs=4)
+  - H2 DB 설치
+  - 테이블 생성
+  - Jdbc
+    - Memory에서 DB로
+  - 통합 테스트
+  - Jdbc Template
 
 ----
